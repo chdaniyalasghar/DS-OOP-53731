@@ -1,1 +1,3 @@
 this is my first commit at github
+and
+i updated it
